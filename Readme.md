@@ -1,7 +1,3 @@
-<a href="https://github.com/petersawmtech">
-    <img src="https://github.com/petersawmtech/garrettbovo/assets/154717520/b7afe3a0-edb2-4cea-8b47-e687daa11c87" title="Go to my LinkedIn" alt="GitHub Header Image">
-</a>
-<p><h3><a href="https://github.com/petersawmtech">GitHub Homepage Link: <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" title="Go to my GitHub Homepage" alt="GitHub" height="30"></a></h3></p>
 
 <details>
 <summary>Table of Contents</summary>
@@ -68,8 +64,7 @@
 </ul>
 
 <h2 id="contact">Contact</h2>
-  <p>📫 How to reach me: egarrett021@gmail.com</p>
+  <p>📫 How to reach me: petersawm936@gmail.com</p>
   <p>
-    <a href="https://github.com/garrettbovo"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40"></a>
-    <a href="https://www.linkedin.com/in/garrett-ellis-740b202a6/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40"></a>
+    <a href="https://github.com/petersawmtech"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40"></a>
   </p>
